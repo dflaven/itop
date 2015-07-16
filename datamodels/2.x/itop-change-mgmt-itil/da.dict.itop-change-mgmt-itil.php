@@ -243,5 +243,7 @@ Dict::Add('DA DA', 'Danish', 'Dansk', array(
 	'Class:EmergencyChange/Stimulus:ev_validate+' => '',
 	'Class:EmergencyChange/Stimulus:ev_reject' => 'Afslå',
 	'Class:EmergencyChange/Stimulus:ev_reject+' => '',
+	'Class:Change/Attribute:related_incident_list' => 'Relaterede incidents',
+	'Class:Change/Attribute:related_incident_list+' => '',
 ));
 ?>

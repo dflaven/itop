@@ -242,5 +242,7 @@ Dict::Add('DE DE', 'German', 'Deutsch', array(
 	'Class:ApprovedChange/Stimulus:ev_monitor+' => '',
 	'Class:ApprovedChange/Stimulus:ev_finish' => 'Abschließen',
 	'Class:ApprovedChange/Stimulus:ev_finish+' => '',
+	'Class:Change/Attribute:related_incident_list' => 'Verwandte Incidents',
+	'Class:Change/Attribute:related_incident_list+' => '',
 ));
 ?>
